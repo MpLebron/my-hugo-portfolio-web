@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: OpenGMS
+- name: "OpenGMS"
  url: "https://geomodeling.njnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
